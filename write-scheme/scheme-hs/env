@@ -1,0 +1,1 @@
+alias scheme-hs="make build && .stack-work/dist/x86_64-linux/Cabal-3.8.1.0/build/scheme-hs-exe/scheme-hs-exe"
